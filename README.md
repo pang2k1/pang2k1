@@ -1,4 +1,4 @@
-# hey, i'm pang 🫡
+# yo, i'm pang 🫡
 
 Bangkok-based data analyst who got tired of doing things manually.
 
