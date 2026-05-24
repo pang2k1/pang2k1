@@ -12,6 +12,9 @@ I work with data professionally — audience activation, marketing analytics, BI
 |---|---|---|
 | [job_tracker](https://github.com/pang2k1/job_tracker) | scans my gmail for job application emails, auto-detects rejections, sends me a daily digest | Google Apps Script, Gmail API, Google Sheets |
 | [trading_bot_v1](https://github.com/pang2k1/trading_bot_v1) | algorithmic trading bot, work in progress | Python |
+| [J.A.R.V.I.S](https://github.com/pang2k1/project_jarvis) | interactive personal assistant, running locally on computer | Agentic Workflows |
+| [SheetMind](https://github.com/pang2k1/sheetmind) | google chrome extention, google sheets creation from natural language | Javascript, Claude API |
+
 | garmin running coach *(in progress)* | one-tap on mobile → pulls my garmin run data → AI coaches me on it. because i can't be bothered uploading 10 screenshots after every run | Garmin API, Python, Google Sheets, LLM |
 
 ---
